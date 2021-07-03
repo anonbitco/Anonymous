@@ -113,7 +113,7 @@ const Header = ({
                       navPosition && `header-nav-${navPosition}`
                     )}>
                     <li>
-                      <Link to="#" onClick={closeMenu}>About Us</Link>
+                     <Link to="#" onClick={closeMenu}></Link>
                     </li>
                   </ul>
                   {!hideSignin &&
@@ -121,7 +121,7 @@ const Header = ({
                       className="list-reset header-nav-right"
                     >
                       <li>
-                        <Link to="#0" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Donate</Link>
+                        <a target="_blank" href="https://www.blockonomics.co/pay-url/a00858efa6b2466c" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Donate</a>
                       </li>
                     </ul>}
                 </div>

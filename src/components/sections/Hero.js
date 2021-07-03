@@ -69,10 +69,10 @@ const Hero = ({
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="">
+                  <Button tag="a" color="primary" wideMobile href="https://www.clubhouse.com/club/bitcoin-parade-for-nepal">
                     Ongoing Campaigns
                     </Button>
-                  <Button tag="a" color="dark" wideMobile href="">
+                  <Button tag="a" color="dark" wideMobile href='mailto:bitcoinparade@protonmail.com'>
                     Contact Us
                     </Button>
                 </ButtonGroup>
