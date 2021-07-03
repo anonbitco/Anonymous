@@ -51,7 +51,7 @@ const FeaturesSplit = ({
 
   const sectionHeader = {
     title: 'How Bitcoin Parade Works',
-    paragraph: 'We organize local events open for all in school, colleges, officies in Nepal to showcase bitcoin and its usages.'
+    paragraph: 'We organize local events open for all in school, colleges, offices in Nepal to showcase bitcoin and its usages.'
   };
 
   return (
