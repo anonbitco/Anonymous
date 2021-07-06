@@ -62,14 +62,14 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    .
+                    Learning about bitcoin in Nepali helped our community to understand about money. Great initiatives from our Nepali youth. 
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">X</span>
+                  <span className="testimonial-item-name text-color-high">Local Representative</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">Y</a>
+                    <a href="#0">Maitighar</a>
                   </span>
                 </div>
               </div>
@@ -79,14 +79,14 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    .
-                      </p>
+                    I learned about mining bitcoin. The book materials and instructions were simple and clear to understand how to participate in bitcoin network.
+                  </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">X</span>
+                  <span className="testimonial-item-name text-color-high">Ramesh Paudel</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">Y</a>
+                    <a href="#0">Pokhara</a>
                   </span>
                 </div>
               </div>
@@ -96,14 +96,14 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    .
+                    After participating in Bitcoin 101 free course, I understood about financial freedom and how technology is solving problem of corruption.
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">X</span>
+                  <span className="testimonial-item-name text-color-high">Sita Gaire</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">Y</a>
+                    <a href="#0">School Teacher</a>
                   </span>
                 </div>
               </div>
