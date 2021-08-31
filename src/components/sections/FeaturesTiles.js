@@ -44,8 +44,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'Why Nepal Needs Bitcoin?',
-    paragraph: 'In Nepal, most of the people lacks financial education. Government of Nepal has sufferred from extreme corruption since long time ago. Introduction of Bitcoin in Nepal will bring transparency and financial freedom.'
+    title: 'What is Review Capital?',
+    paragraph: 'Review Capital is a decentralized open source project built on Zilliqa blockchain that focuses on building DApps related to news and reviews industry.'
   };
 
   return (
@@ -71,10 +71,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Financial Education
+                    BuzzerNepal
                     </h4>
                   <p className="m-0 text-sm">
-                    Money is considered "taboo" and often silenced in Nepal as "पैसाको मुख कालो हुन्छ". People are deprived of education on how money is created and controlled in Nepal.
+                    BuzzerNepal is a DApp maintained by Review Capital team. It is focused on delivering decentralized and censorship resistant news circulated without any central authority.
                     </p>
                 </div>
               </div>
@@ -93,10 +93,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Corrupt Governments
+                    RECAP - Governace Token
                     </h4>
                   <p className="m-0 text-sm">
-                    Lack of transparency in financial accounts of Nepali Government has led into massive corruption. Bitcoin fixes this.
+                  RECAP is a ZRC-2 token used across all Review Capital applications to bring decentralized governacne over news portal industry.
                     </p>
                 </div>
               </div>
@@ -115,10 +115,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Fraud Banking System
+                    NEWS - Utility Token
                     </h4>
                   <p className="m-0 text-sm">
-                    Banks have power to mint new money out of thin air. They create 10; keep 9 and give us 1. That's how they are getting richer and we are getting poorer.
+                  NEWS is a ZRC-2 token used across all applications of Review Capital network to bring decentralized utilities over news portal industry.
                     </p>
                 </div>
               </div>
@@ -137,10 +137,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Bitcoin: Self-Custody
+                    Censorship Resistant
                     </h4>
                   <p className="m-0 text-sm">
-                    With Bitcoin, people are themselves bank. They control their wealth themselves. That's financial freedom.
+                  It runs on censorship-resistant mechanism on IPFS and gets integrated with ZRC-2 protocal.
                     </p>
                 </div>
               </div>
@@ -159,10 +159,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Bitcoin: Runs Wide
+                    No Central Authority
                     </h4>
                   <p className="m-0 text-sm">
-                    There are only 27 commercial banks, 21 finance companies and 76 microfinance. Bitcoin fixes this.
+                  News articles on this platform are published, validated and circulated without any central authority.
                     </p>
                 </div>
               </div>
@@ -181,10 +181,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Bitcoin: Latest Technology
+                    Autonomous Rewards
                     </h4>
                   <p className="m-0 text-sm">
-                    Why should Nepal lag behind developed countries? Let's adopt the progress first-hand.
+                    Smart Contracts reward "Writers and Validators" based on their quality of work done in the eocsystem.
                     </p>
                 </div>
               </div>

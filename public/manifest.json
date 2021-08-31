@@ -1,6 +1,6 @@
 {
-  "short_name": "Bitcoin Parade",
-  "name": "Bitcoin Parade For Nepal",
+  "short_name": "Review Capital",
+  "name": "Review Capital - Decentralized News Portal",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +20,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
+  "theme_color": "aliceblue",
   "background_color": "#ffffff"
 }

@@ -86,7 +86,7 @@ const Header = ({
             'site-header-inner',
             bottomDivider && 'has-bottom-divider'
           )}>
-          <Logo />Bitcoin Parade
+          <Logo />
           {!hideNav &&
             <>
               <button
@@ -120,8 +120,11 @@ const Header = ({
                     <ul
                       className="list-reset header-nav-right"
                     >
+                        <li>
+                        <a target="_blank" href="https://testnet.buzzernepal.com" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Testnet BuzzerNepal</a>
+                      </li>
                       <li>
-                        <a target="_blank" href="https://www.blockonomics.co/pay-url/a00858efa6b2466c" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Donate</a>
+                        <a target="_blank" href="https://buzzernepal.com" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>BuzzerNepal</a>
                       </li>
                     </ul>}
                 </div>

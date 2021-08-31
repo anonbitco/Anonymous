@@ -50,8 +50,8 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'How Bitcoin Parade Works',
-    paragraph: 'We organize local events open for all in school, colleges, offices in Nepal to showcase bitcoin and its usages.'
+    title: 'Review Capital Ecosystem',
+    paragraph: 'Writers, Validators, Liquidity Providers, Holders - RECAP token and NEWS token.'
   };
 
   return (
@@ -67,13 +67,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Let's fight for financial freedom
+                  Let's fight for press freedom
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Bitcoin Villages
+                  Utilities of RECAP Token
                   </h3>
                 <p className="m-0">
-                  Our "Bitcoin Village" program runs 2-3 months of experimental campaign in certain rural villages of Nepal where people do not have access to banking system. 
+                   
                   </p>
               </div>
               <div className={
@@ -83,7 +83,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-01.jpeg')}
+                  src={require('./../../assets/images/feature-split-image-01.jpeg')}
                   alt="Features split 01"
                   width={528}
                   height={396} />
@@ -93,13 +93,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Let's Aware People
+                  Let's Bring Power of Blockchain
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Talk Shows & Events
+                  Submission through crypto-currency, borderless!
                   </h3>
                 <p className="m-0">
-                  Our team participates in various talk shows and events to provide bitcoin and blockchain education. Invite us to help you understand bitcoin for free.
+                  
                   </p>
               </div>
               <div className={
@@ -109,7 +109,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-02.jpeg')}
+                  src={require('./../../assets/images/feature-split-image-02.jpeg')}
                   alt="Features split 02"
                   width={528}
                   height={396} />
@@ -119,13 +119,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Let's Build Network
+                  Let's Build & Incentivize Network
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Learning Materials on Bitcoin
+                  Writers, Validators and Token Holders are rewarded.
                   </h3>
                 <p className="m-0">
-                  Bitcoin Parade team helps in distribution of books, pamphlets and educational material related to bitcoin and blockchain. We make youtube videos, translate bitcoin books in Nepali and organize meetups to network.
+                  
                   </p>
               </div>
               <div className={
@@ -135,7 +135,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-03.png')}
+                  src={require('./../../assets/images/feature-split-image-03.jpeg')}
                   alt="Features split 03"
                   width={528}
                   height={396} />

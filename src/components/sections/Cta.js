@@ -53,11 +53,11 @@ const Cta = ({
         >
           <div className="cta-slogan">
             <h3 className="m-0">
-              Be the part of Bitcoin in Nepal. Join Us.
+              Be the part of Decentralized News Portal. Support Us.
               </h3>
           </div>
           <div className="cta-action">
-            <div id="newsletter" type="email" label="Subscribe" labelHidden hasIcon="right" placeholder>bitcoinparade@protonmail.com
+            <div id="newsletter" type="email" label="Subscribe" labelHidden hasIcon="right" placeholder>contact@reviewcapital.org
             </div>
           </div>
         </div>

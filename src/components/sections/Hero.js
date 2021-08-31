@@ -61,19 +61,19 @@ const Hero = ({
         <div className={innerClasses}>
           <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-              Bitcoin Parade for <span className="text-color-primary">Nepal</span>
+              Review Capital for <span className="text-color-primary">Decentralized News</span>
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                We are a non-proft organization helping local people and governments to understand and adopt Bitcoin.
+                News of the people, News by the people, News for the people.
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="https://www.clubhouse.com/club/bitcoin-parade-for-nepal">
-                    Ongoing Campaigns
+                  <Button tag="a" color="primary" wideMobile target="_blank" href="https://github.com/Review-Capital-Blockchain-Ecosystem/RCIP/blob/master/RECAP-Whitepaper.md">
+                    RECAP - Whitepaper
                     </Button>
-                  <Button tag="a" color="dark" wideMobile href='mailto:bitcoinparade@protonmail.com'>
-                    Contact Us
+                  <Button tag="a" color="dark" wideMobile target="_blank" href='https://github.com/Review-Capital-Blockchain-Ecosystem/RCIP/blob/master/NEWS-Whitepaper.md'>
+                    NEWS - Whitepaper
                     </Button>
                 </ButtonGroup>
               </div>
@@ -81,7 +81,7 @@ const Hero = ({
           </div>
           <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
             <a
-              data-video="https://player.vimeo.com/video/393270696"
+              data-video="https://player.vimeo.com/video/595027812"
               href="#0"
               aria-controls="video-modal"
               onClick={openModal}
@@ -98,7 +98,7 @@ const Hero = ({
             id="video-modal"
             show={videoModalActive}
             handleClose={closeModal}
-            video="https://player.vimeo.com/video/393270696"
+            video="https://player.vimeo.com/video/595027812"
             videoTag="iframe" />
         </div>
       </div>
