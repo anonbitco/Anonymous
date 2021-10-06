@@ -120,11 +120,11 @@ const Header = ({
                     <ul
                       className="list-reset header-nav-right"
                     >
-                        <li>
-                        <a target="_blank" href="https://testnet.buzzernepal.com" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Testnet BuzzerNepal</a>
-                      </li>
                       <li>
                         <a target="_blank" href="https://buzzernepal.com" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>BuzzerNepal</a>
+                      </li>
+                        <li>
+                        <a target="_blank" title="Coming soon ..." href="#" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>BuzzerIndia</a>
                       </li>
                     </ul>}
                 </div>
