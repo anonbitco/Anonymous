@@ -124,7 +124,7 @@ const Header = ({
                         <a target="_blank" href="https://buzzernepal.com" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>BuzzerNepal</a>
                       </li>
                         <li>
-                        <a title="Coming soon ..." href="#" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>BuzzerIndia</a>
+                        <a title="Coming soon ..." href="#" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>BuzzerIndia (upcoming ..)</a>
                       </li>
                     </ul>}
                 </div>
