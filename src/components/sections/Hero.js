@@ -61,7 +61,7 @@ const Hero = ({
         <div className={innerClasses}>
           <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-              Review Capital for <span className="text-color-primary">Decentralized News</span>
+              CheckerChain is a decentralized review aggregator platform to check products for <span className="text-color-primary">Valid and Authentic Feedbacks.</span>
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
@@ -69,38 +69,13 @@ const Hero = ({
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile target="_blank" href="https://github.com/Review-Capital-Blockchain-Ecosystem/RCIP/blob/master/RECAP-Whitepaper.md">
-                    RECAP - Whitepaper
-                    </Button>
-                  <Button tag="a" color="dark" wideMobile target="_blank" href='https://github.com/Review-Capital-Blockchain-Ecosystem/RCIP/blob/master/NEWS-Whitepaper.md'>
-                    NEWS - Whitepaper
+                  <Button tag="a" color="primary" wideMobile target="_blank" href="">
+                    CheckerChain - Whitepaper
                     </Button>
                 </ButtonGroup>
               </div>
             </div>
           </div>
-          <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
-            <a
-              data-video="https://player.vimeo.com/video/595027812"
-              href="#0"
-              aria-controls="video-modal"
-              onClick={openModal}
-            >
-              <Image
-                className="has-shadow"
-                src={require('./../../assets/images/video-placeholder.png')}
-                alt="Hero"
-                width={896}
-                height={504} />
-            </a>
-          </div>
-          <Modal
-            id="video-modal"
-            show={videoModalActive}
-            handleClose={closeModal}
-            video="https://player.vimeo.com/video/595027812"
-            videoTag="iframe" />
-        </div>
       </div>
     </section>
   );
