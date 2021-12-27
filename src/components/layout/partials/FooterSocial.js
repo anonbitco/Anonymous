@@ -18,7 +18,7 @@ const FooterSocial = ({
     >
       <ul className="list-reset">
         <li>
-          <a target="_blank" href="https://t.me/RECAPCommunity">
+          <a target="_blank" href="https://t.me/checkerchain">
 
           <svg xmlns="http://www.w3.org/2000/svg" 
             width="16" 
@@ -33,7 +33,7 @@ const FooterSocial = ({
           </a>
         </li>
         <li>
-          <a target="_blank" href="https://twitter.com/RECAP_Token">
+          <a target="_blank" href="https://twitter.com/checkerchain">
             <svg
               width="16"
               height="16"
