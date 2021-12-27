@@ -61,11 +61,11 @@ const Hero = ({
         <div className={innerClasses}>
           <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-              CheckerChain is a decentralized review aggregator platform to check products for <span className="text-color-primary">Valid and Authentic Feedbacks.</span>
+              CheckerChain is a decentralized <span className="text-color-primary">Review Aggregator Platform.</span>
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                News of the people, News by the people, News for the people.
+                Post or Check Blockchain & Crypto Products to Earn. Open, decentralized & authentic feedbacks.
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
