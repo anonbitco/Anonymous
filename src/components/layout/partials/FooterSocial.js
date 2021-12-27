@@ -33,7 +33,7 @@ const FooterSocial = ({
           </a>
         </li>
         <li>
-          <a target="_blank" href="https://twitter.com/checkerchain">
+          <a target="_blank" href="https://twitter.com/checker_chain">
             <svg
               width="16"
               height="16"
