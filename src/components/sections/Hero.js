@@ -73,6 +73,7 @@ const Hero = ({
                     CheckerChain - Whitepaper
                     </Button>
                 </ButtonGroup>
+               </div>
               </div>
             </div>
           </div>
