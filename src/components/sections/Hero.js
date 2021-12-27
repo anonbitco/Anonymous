@@ -65,12 +65,12 @@ const Hero = ({
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                Post or Check Blockchain & Crypto Products to Earn. Open, decentralized & authentic feedbacks.
+                Earn Crypto for Submitting & Reviewing Products, Apps, Books, Movies, Events & More.
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
                   <Button tag="a" color="primary" wideMobile target="_blank" href="">
-                    CheckerChain - Whitepaper
+                    Powered By Elrond Network
                     </Button>
                 </ButtonGroup>
                </div>
