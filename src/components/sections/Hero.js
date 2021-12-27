@@ -69,7 +69,7 @@ const Hero = ({
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile target="_blank" href="">
+                  <Button tag="a" color="primary" wideMobile href="#">
                     Powered By Elrond Network
                     </Button>
                 </ButtonGroup>
